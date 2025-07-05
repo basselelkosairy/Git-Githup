@@ -1,0 +1,11 @@
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Domain\obj\Debug\net8.0\EcommerceSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Domain\obj\Debug\net8.0\EcommerceSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Domain\obj\Debug\net8.0\EcommerceSystem.Domain.AssemblyInfo.cs
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Domain\obj\Debug\net8.0\EcommerceSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Domain\bin\Debug\net8.0\EcommerceSystem.Domain.deps.json
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Domain\bin\Debug\net8.0\EcommerceSystem.Domain.dll
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Domain\bin\Debug\net8.0\EcommerceSystem.Domain.pdb
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Domain\obj\Debug\net8.0\EcommerceSystem.Domain.dll
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Domain\obj\Debug\net8.0\refint\EcommerceSystem.Domain.dll
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Domain\obj\Debug\net8.0\EcommerceSystem.Domain.pdb
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Domain\obj\Debug\net8.0\ref\EcommerceSystem.Domain.dll

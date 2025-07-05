@@ -1,0 +1,15 @@
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\obj\Debug\net8.0\EcommerceSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\obj\Debug\net8.0\EcommerceSystem.Application.AssemblyInfoInputs.cache
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\obj\Debug\net8.0\EcommerceSystem.Application.AssemblyInfo.cs
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\obj\Debug\net8.0\EcommerceSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\bin\Debug\net8.0\EcommerceSystem.Application.deps.json
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\bin\Debug\net8.0\EcommerceSystem.Application.dll
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\bin\Debug\net8.0\EcommerceSystem.Application.pdb
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\bin\Debug\net8.0\EcommerceSystem.Domain.dll
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\bin\Debug\net8.0\EcommerceSystem.Domain.pdb
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\obj\Debug\net8.0\EcommerceSystem.Application.csproj.AssemblyReference.cache
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\obj\Debug\net8.0\Ecommerc.1935783B.Up2Date
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\obj\Debug\net8.0\EcommerceSystem.Application.dll
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\obj\Debug\net8.0\refint\EcommerceSystem.Application.dll
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\obj\Debug\net8.0\EcommerceSystem.Application.pdb
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Application\obj\Debug\net8.0\ref\EcommerceSystem.Application.dll
