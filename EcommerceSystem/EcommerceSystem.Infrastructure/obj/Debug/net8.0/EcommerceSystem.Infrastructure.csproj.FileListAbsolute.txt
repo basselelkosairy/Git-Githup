@@ -1,0 +1,15 @@
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\obj\Debug\net8.0\EcommerceSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\obj\Debug\net8.0\EcommerceSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\obj\Debug\net8.0\EcommerceSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\obj\Debug\net8.0\EcommerceSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\bin\Debug\net8.0\EcommerceSystem.Infrastructure.deps.json
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\bin\Debug\net8.0\EcommerceSystem.Infrastructure.dll
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\bin\Debug\net8.0\EcommerceSystem.Infrastructure.pdb
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\bin\Debug\net8.0\EcommerceSystem.Domain.dll
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\bin\Debug\net8.0\EcommerceSystem.Domain.pdb
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\obj\Debug\net8.0\EcommerceSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\obj\Debug\net8.0\Ecommerc.ADBABF84.Up2Date
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\obj\Debug\net8.0\EcommerceSystem.Infrastructure.dll
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\obj\Debug\net8.0\refint\EcommerceSystem.Infrastructure.dll
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\obj\Debug\net8.0\EcommerceSystem.Infrastructure.pdb
+C:\Users\cs\source\repos\EcommerceSystem\EcommerceSystem.Infrastructure\obj\Debug\net8.0\ref\EcommerceSystem.Infrastructure.dll
